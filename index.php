@@ -132,7 +132,7 @@
                   <div class="col-lg-8 col-md-12 col-12 ps-lg-5 mt-md-5">
                       <div class="about-text">
                             <h2>Ensuring will Provide the Best Quality <br/>Services</h2>
-                            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Totam, labore reiciendis. Assumenda eos quod animi! Soluta nesciunt inventore dolores excepturi provident, culpa beatae tempora, explicabo corporis quibusdam corrupti. Autem, quaerat. Assumenda quo aliquam vel, nostrum explicabo ipsum dolor, ipsa perferendis porro doloribus obcaecati placeat natus iste odio est non earum?</p>
+                            <p>Making sure you and your staff are knowledgeable about the products you sell. Being available for customer questions and responding promptly (even if it's negative feedback) Doing what you can to go above and beyond and make customers happy and feel special.</p>
                             <a href="#" class="btn btn-warning">Learn More</a>
                       </div>
                   </div>
@@ -147,7 +147,8 @@
                   <div class="col-md-12">
                       <div class="section-header text-center pb-3">
                           <h2>Our Services</h2>
-                          <p>Lorem ipsum dolor sit amet, consectetur <br>adipisicing elit. Non, quo.</p>
+                          <p>Looks so Good on the Outside, It'll Make You Feel Good Inside.</p>
+                          <!-- <p>We give the Best. We Receive the best. Our customer is the hero of our Business. Expect Perfection.</p> -->
                       </div>
                   </div>
               </div>
@@ -157,7 +158,7 @@
                         <div class="card-body">
                             <i class="bi bi-pc-display"></i>
                             <h3 class="card-title">Diskless Setup</h3>
-                            <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci eligendi modi temporibus alias iste. Accusantium?</p>
+                            <p class="lead">A computer system without hard drives. Instead, each computer uses network-attached storage drives on a server to store data.</p>
                             <button class="btn btn-outline-secondary">Read More</button>
                         </div>
                     </div>
@@ -167,7 +168,7 @@
                           <div class="card-body">
                             <i class="bi bi-tools"></i>
                               <h3 class="card-title">Repair Service</h3>
-                              <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci eligendi modi temporibus alias iste. Accusantium?</p>
+                              <p class="lead">Restoration of Equipment to its original function on an as-needed basis, as may be required by the Facility.</p>
                               <button class="btn btn-outline-secondary">Read More</button>
                           </div>
                       </div>
@@ -177,7 +178,7 @@
                           <div class="card-body">
                             <i class="bi bi-laptop"></i>
                               <h3 class="card-title">Web Development Service</h3>
-                              <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci eligendi modi temporibus alias iste. Accusantium?</p>
+                              <p class="lead">Building and maintenance of websites; it's the work that happens behind the scenes to make a website look great.</p>
                               <button class="btn btn-outline-secondary">Read More</button>
                           </div>
                       </div>
@@ -187,7 +188,7 @@
                         <div class="card-body">
                           <i class="bi bi-box-seam"></i>
                             <h3 class="card-title">Alliah Avon's</h3>
-                            <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci eligendi modi temporibus alias iste. Accusantium?</p>
+                            <p class="lead">Manufactures and sells beauty and related products. The Company offers fragrances, color cosmetics, and personal care products</p>
                             <button class="btn btn-outline-secondary">Read More</button>
                         </div>
                     </div>
@@ -197,7 +198,7 @@
                         <div class="card-body">
                           <i class="bi bi-shop"></i>
                             <h3 class="card-title">Mariecar Clothing</h3>
-                            <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci eligendi modi temporibus alias iste. Accusantium?</p>
+                            <p class="lead">Create your own Fashion Be confident on yourself build up self-steem and let everyone see your Beauty make yourself proud on what you have.</p>
                             <button class="btn btn-outline-secondary">Read More</button>
                         </div>
                     </div>
@@ -207,7 +208,7 @@
                         <div class="card-body">
                           <i class="bi bi-scissors"></i>
                             <h3 class="card-title">Alvarez Subcon</h3>
-                            <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci eligendi modi temporibus alias iste. Accusantium?</p>
+                            <p class="lead">A factory that mainly does garment stitching work. They don't need to set-up other facilities and staffs for layer cutting, garment finishing.</p>
                             <button class="btn btn-outline-secondary">Read More</button>
                         </div>
                     </div>
@@ -224,7 +225,7 @@
                 <div class="col-md-12">
                     <div class="section-header text-center pb-3">
                         <h2>Our Projects</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur <br>adipisicing elit. Non, quo.</p>
+                        <p>Delivering all your needs ontime</p>
                     </div>
                 </div>
             </div>
@@ -235,7 +236,7 @@
                           <div class="img-area mb-4">
                               <img src="img/project-1.jpg" class="img-fluid" alt="">
                           </div>
-                            <h3 class="card-title">Building Make</h3>
+                            <h3 class="card-title">Brix Blog</h3>
                             <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci eligendi modi temporibus alias iste. Accusantium?</p>
                             <button class="btn bg-warning text-dark">Learn More</button>
                         </div>
@@ -247,7 +248,7 @@
                           <div class="img-area mb-4">
                               <img src="img/project-1.jpg" class="img-fluid" alt="">
                           </div>
-                            <h3 class="card-title">Building Make</h3>
+                            <h3 class="card-title">Trix Blog</h3>
                             <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci eligendi modi temporibus alias iste. Accusantium?</p>
                             <button class="btn bg-warning text-dark">Learn More</button>
                         </div>
@@ -259,7 +260,7 @@
                           <div class="img-area mb-4">
                               <img src="img/project-2.jpg" class="img-fluid" alt="">
                           </div>
-                            <h3 class="card-title">Building Make</h3>
+                            <h3 class="card-title">Angel Blog</h3>
                             <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci eligendi modi temporibus alias iste. Accusantium?</p>
                             <button class="btn bg-warning text-dark">learn More</button>
                         </div>
@@ -271,7 +272,7 @@
                           <div class="img-area mb-4">
                               <img src="img/project-3.jpg" class="img-fluid" alt="">
                           </div>
-                            <h3 class="card-title">Building Make</h3>
+                            <h3 class="card-title">Mariecar Blog</h3>
                             <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci eligendi modi temporibus alias iste. Accusantium?</p>
                             <button class="btn bg-warning text-dark">Learn More</button>
                         </div>
@@ -283,7 +284,7 @@
                           <div class="img-area mb-4">
                               <img src="img/project-3.jpg" class="img-fluid" alt="">
                           </div>
-                            <h3 class="card-title">Building Make</h3>
+                            <h3 class="card-title">Mary Blog</h3>
                             <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci eligendi modi temporibus alias iste. Accusantium?</p>
                             <button class="btn bg-warning text-dark">Learn More</button>
                         </div>
