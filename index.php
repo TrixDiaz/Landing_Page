@@ -62,7 +62,7 @@
             <img src="img/computer.jpg" class="d-block w-100" alt="...">
             <div class="carousel-caption">
               <h5>Computer Diskless Setup</h5>
-                              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime, nulla, tempore. Deserunt excepturi quas vero.</p>
+                              <p>Let's Build UP your Computer Cafe and Setup Server's and Client's for better experience and management of your Business</p>
                               <p><a href="#" class="btn btn-outline-warning mt-3">Learn More</a></p>
             </div>
           </div>
@@ -70,7 +70,7 @@
             <img src="img/web.jpg" class="d-block w-100" alt="...">
             <div class="carousel-caption">
               <h5>Web Development Service</h5>
-                              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime, nulla, tempore. Deserunt excepturi quas vero.</p>
+                              <p>Have your own website and manage your Business</p>
                               <p><a href="#" class="btn btn-outline-warning mt-3">Learn More</a></p>
             </div>
           </div>
@@ -79,7 +79,7 @@
             <img src="img/repair.jpg" class="d-block w-100" alt="...">
             <div class="carousel-caption">
               <h5>Repair Services</h5>
-                              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime, nulla, tempore. Deserunt excepturi quas vero.</p>
+                              <p>Let's Fix your phone click the button below</p>
                               <p><a href="#" class="btn btn-outline-warning mt-3">Learn More</a></p>
             </div>
           </div>
@@ -88,7 +88,7 @@
             <img src="img/Avon.jpg" class="d-block w-100" alt="...">
             <div class="carousel-caption">
               <h5>Avon Products</h5>
-                              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime, nulla, tempore. Deserunt excepturi quas vero.</p>
+                              <p>Certified Distributor Avon product click the button below</p>
                               <p><a href="#" class="btn btn-outline-warning mt-3">Learn More</a></p>
             </div>
           </div>
@@ -97,7 +97,7 @@
             <img src="img/selling.jpg" class="d-block w-100" alt="...">
             <div class="carousel-caption">
               <h5>Mariecar Clothing</h5>
-                              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime, nulla, tempore. Deserunt excepturi quas vero.</p>
+                              <p>We Sell all kinds of Clothing to see more click the button below</p>
                               <p><a href="#" class="btn btn-outline-warning mt-3">Learn More</a></p>
             </div>
           </div>
@@ -105,7 +105,7 @@
             <img src="img/mayangstore.jpg" class="d-block w-100" alt="...">
             <div class="carousel-caption">
               <h5>Alvarez Subcon</h5>
-                              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime, nulla, tempore. Deserunt excepturi quas vero.</p>
+                              <p>Accepting Subcon</p>
                               <p><a href="#" class="btn btn-outline-warning mt-3">Learn More</a></p>
             </div>
           </div>
