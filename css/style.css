@@ -107,6 +107,7 @@ body {
 @media only screen and (max-width: 767px) {
 	.navbar-nav {
 		text-align: center;
+		
 	}
 	.carousel-caption {
 		bottom: 125px;
@@ -128,5 +129,6 @@ body {
 	}
 	.card {
 		margin-bottom: 30px;
+	
 	}
 }
