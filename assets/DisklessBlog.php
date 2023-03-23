@@ -69,7 +69,7 @@
           </div>
           <hr>
 
-          <div class="row d-flex justify-content-center" style="background: #D6E4E5;">
+          <!-- <div class="row d-flex justify-content-center" style="background: #D6E4E5;">
             <div class="col-lg-4 col-md-12 col-12">
               <div class="about-img py-3 mx-3">
                 <img src="./img/tearherelogo.jpg" alt="" class="img-fluid rounded" style="width: 100%; height: 40vh;">
@@ -92,7 +92,7 @@
               </div>
             </div>
           </div>
-          <hr> 
+          <hr>  -->
 
           
 
