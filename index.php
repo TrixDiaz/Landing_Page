@@ -131,10 +131,10 @@
     <div class="container">
       <div class="row d-flex justify-content-center pb-5" style="background: #D6E4E5;">
         <div class="col-lg-4 col-md-12 col-12">
-                      <div class="about-img">
-                          <img src="img/satisfaction.svg" alt="" class="img-fluid rounded" style="height: 350px;" width="100%"  >
-                      </div>
-                  </div>
+          <div class="about-img">
+            <img src="img/satisfaction.svg" alt="" class="img-fluid rounded" style="height: 350px;" width="100%">
+          </div>
+        </div>
         <div class="col-lg-8 col-md-12 col-12 ps-lg-5 mt-md-5">
           <div class="about-text">
             <h2>Ensuring will Provide the Best Quality <br />Services</h2>
@@ -272,10 +272,8 @@
 
 
               <p class="socials">
-                <i class="bi bi-twitter text-dark mx-1"></i>
-                <i class="bi bi-facebook text-dark mx-1"></i>
-                <i class="bi bi-linkedin text-dark mx-1"></i>
-                <i class="bi bi-instagram text-dark mx-1"></i>
+                <a href="https://www.facebook.com/profile.php?id=100080027782522"><i class="bi bi-facebook text-dark mx-1"></i></a>
+                <a href="https://www.messenger.com/t/100080027782522"><i class="bi bi-messenger text-dark mx-1"></i></a>
               </p>
             </div>
           </div>
@@ -288,10 +286,8 @@
               <p class="card-text">A Full Stack Software Developer having an experience of building Web and Mobile application with JavaScript /
                 Reactjs /React Native and other libraries & frameworks.</p>
               <p class="socials">
-                <i class="bi bi-twitter text-dark mx-1"></i>
-                <i class="bi bi-facebook text-dark mx-1"></i>
-                <i class="bi bi-linkedin text-dark mx-1"></i>
-                <i class="bi bi-instagram text-dark mx-1"></i>
+                <a href="https://www.facebook.com/profile.php?id=100085677631685"><i class="bi bi-facebook text-dark mx-1"></i></a>
+                <a href="https://www.messenger.com/t/100085677631685"><i class="bi bi-messenger text-dark mx-1"></i></a>
               </p>
             </div>
           </div>
