@@ -130,11 +130,11 @@
   <section id="about" class="about section-padding">
     <div class="container">
       <div class="row d-flex justify-content-center pb-5" style="background: #D6E4E5;">
-        <!-- <div class="col-lg-4 col-md-12 col-12">
+        <div class="col-lg-4 col-md-12 col-12">
                       <div class="about-img">
-                          <img src="img/office-Picture.jpg" alt="" class="img-fluid rounded">
+                          <img src="img/satisfaction.svg" alt="" class="img-fluid rounded" style="height: 350px;" width="100%"  >
                       </div>
-                  </div> -->
+                  </div>
         <div class="col-lg-8 col-md-12 col-12 ps-lg-5 mt-md-5">
           <div class="about-text">
             <h2>Ensuring will Provide the Best Quality <br />Services</h2>
@@ -213,10 +213,10 @@
           <div class="card text-light text-center bg-white pb-2">
             <div class="card-body text-dark">
               <div class="img-area mb-4">
-                <!-- <img src="img/project-1.jpg" class="img-fluid" alt=""> -->
+                <img src="img/computer-server.jpg" class="img-fluid" alt="" style="height: 200px;">
               </div>
               <h3 class="card-title">Diskless Blog</h3>
-              <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci eligendi modi temporibus alias iste. Accusantium?</p>
+              <p class="lead">Crack Software & I-Cafe | CC-Boot and Office Setup </p>
               <button class="btn bg-warning text-dark" data-bs-toggle="modal" data-bs-target="#DisklessBlog">Learn More</button>
             </div>
           </div>
@@ -225,10 +225,10 @@
           <div class="card text-light text-center bg-white pb-2">
             <div class="card-body text-dark">
               <div class="img-area mb-4">
-                <!-- <img src="img/project-1.jpg" class="img-fluid" alt=""> -->
+                <img src="img/manOnTable.svg" class="img-fluid" alt="" style="height: 200px;">
               </div>
               <h3 class="card-title">Web Blog</h3>
-              <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci eligendi modi temporibus alias iste. Accusantium?</p>
+              <p class="lead">Web and Mobile Development and Blog </p>
               <button class="btn bg-warning text-dark" data-bs-toggle="modal" data-bs-target="#WebBlog">Learn More</button>
             </div>
           </div>
@@ -237,10 +237,10 @@
           <div class="card text-light text-center bg-white pb-2">
             <div class="card-body text-dark">
               <div class="img-area mb-4">
-                <!-- <img src="img/project-2.jpg" class="img-fluid" alt=""> -->
+                <img src="img/computer-repair.avif" class="img-fluid" alt="" style="height: 200px;">
               </div>
               <h3 class="card-title">Repair Blog</h3>
-              <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci eligendi modi temporibus alias iste. Accusantium?</p>
+              <p class="lead">Computer Laptop and Phone Repair Services</p>
               <button class="btn bg-warning text-dark" data-bs-toggle="modal" data-bs-target="#RepairBlog">learn More</button>
             </div>
           </div>
@@ -285,7 +285,7 @@
             <div class="card-body">
               <img src="img/me.jpg" alt="" class="img-fluid rounded-circle">
               <h3 class="card-title py-2">Trix Darlucio</h3>
-              <p class="card-text">A Full Stack Software Developer having an experience of building Web and Mobile application with JavaScript / 
+              <p class="card-text">A Full Stack Software Developer having an experience of building Web and Mobile application with JavaScript /
                 Reactjs /React Native and other libraries & frameworks.</p>
               <p class="socials">
                 <i class="bi bi-twitter text-dark mx-1"></i>
