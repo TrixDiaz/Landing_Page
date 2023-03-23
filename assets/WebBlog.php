@@ -23,21 +23,21 @@
           <div class="row d-flex justify-content-center" style="background: #D6E4E5;">
             <div class="col-lg-4 col-md-12 col-12">
               <div class="about-img py-3 mx-3">
-                <img src="img/nueva.jpg" alt="" class="img-fluid rounded" style="width: 100%; height: 40vh;">
+                <img src="./img/android-research1.png" alt="" class="img-fluid rounded" style="width: 100%; height: 40vh;">
               </div>
             </div>
             <div class="col-lg-8 col-md-12 col-12 ps-lg-5 mt-md-5">
               <div class="about-text">
-                <h2>Ensuring will Provide the Best Quality <br />Services</h2>
-                <p>Making sure you and your staff are knowledgeable about the products you sell. Being available for customer questions and responding promptly (even if it's negative feedback) Doing what you can to go above and beyond and make customers happy and feel special.</p>
+                <h4>Research Mobile App Android Studio | Java</h4>
+                <p>Research Mobile App Android Studio Valenzuela Mathematics and Science School</p>
                 <details>
                   <summary>Read More</summary>
+                  <p>Thanks for Trusting Us. Ensuring our Service and exceed your Satisfaction</p>
                   <div class="row">
-                    <div class="col-sm-4"><img src="img/nueva.jpg" alt="" class="img-fluid rounded" style="width: 100%; height: 20vh;"></div>
-                    <div class="col-sm-4"><img src="img/nueva.jpg" alt="" class="img-fluid rounded" style="width: 100%; height: 20vh;"></div>
-                    <div class="col-sm-4"><img src="img/nueva.jpg" alt="" class="img-fluid rounded" style="width: 100%; height: 20vh;"></div>
+                    <div class="col-sm-4"><img src="./img/android-research2.png" alt="" class="img-fluid rounded" style="width: 100%; height: 20vh;"></div>
+                    <div class="col-sm-4"><img src="./img/android-research3.png" alt="" class="img-fluid rounded" style="width: 100%; height: 20vh;"></div>
+                    <div class="col-sm-4"><img src="./img/android-research4.jpg" alt="" class="img-fluid rounded" style="width: 100%; height: 20vh;"></div>
                   </div>
-                  <p>Making sure you and your staff are knowledgeable about the products you sell. Being available for customer questions and responding promptly even if it's ne</p>
                 </details>
               </div>
             </div>
@@ -47,21 +47,21 @@
           <div class="row d-flex justify-content-center" style="background: #D6E4E5;">
             <div class="col-lg-4 col-md-12 col-12">
               <div class="about-img py-3 mx-3">
-                <img src="img/nueva.jpg" alt="" class="img-fluid rounded" style="width: 100%; height: 40vh;">
+                <img src="./img/loginsession1.png" alt="" class="img-fluid rounded" style="width: 100%; height: 40vh;">
               </div>
             </div>
             <div class="col-lg-8 col-md-12 col-12 ps-lg-5 mt-md-5">
               <div class="about-text">
-                <h2>Ensuring will Provide the Best Quality <br />Services</h2>
-                <p>Making sure you and your staff are knowledgeable about the products you sell. Being available for customer questions and responding promptly (even if it's negative feedback) Doing what you can to go above and beyond and make customers happy and feel special.</p>
+                <h4>Login and Register with Session | PHP</h4>
+                <p>Bootstrap and Materialize Frameworks Simple PHP with validation login form</p>
                 <details>
                   <summary>Read More</summary>
+                  <p>Thanks for Trusting Us. Ensuring our Service and exceed your Satisfaction</p>
                   <div class="row">
-                    <div class="col-sm-4"><img src="img/nueva.jpg" alt="" class="img-fluid rounded" style="width: 100%; height: 20vh;"></div>
-                    <div class="col-sm-4"><img src="img/nueva.jpg" alt="" class="img-fluid rounded" style="width: 100%; height: 20vh;"></div>
-                    <div class="col-sm-4"><img src="img/nueva.jpg" alt="" class="img-fluid rounded" style="width: 100%; height: 20vh;"></div>
+                    <div class="col-sm-4"><img src="./img/loginsession2.png" alt="" class="img-fluid rounded" style="width: 100%; height: 20vh;"></div>
+                    <!-- <div class="col-sm-4"><img src="img/nueva.jpg" alt="" class="img-fluid rounded" style="width: 100%; height: 20vh;"></div>
+                    <div class="col-sm-4"><img src="img/nueva.jpg" alt="" class="img-fluid rounded" style="width: 100%; height: 20vh;"></div> -->
                   </div>
-                  <p>Making sure you and your staff are knowledgeable about the products you sell. Being available for customer questions and responding promptly even if it's ne</p>
                 </details>
               </div>
             </div>
@@ -71,21 +71,21 @@
           <div class="row d-flex justify-content-center" style="background: #D6E4E5;">
             <div class="col-lg-4 col-md-12 col-12">
               <div class="about-img py-3 mx-3">
-                <img src="img/nueva.jpg" alt="" class="img-fluid rounded" style="width: 100%; height: 40vh;">
+                <img src="./img/laravel-amlac.png" alt="" class="img-fluid rounded" style="width: 100%; height: 40vh;">
               </div>
             </div>
             <div class="col-lg-8 col-md-12 col-12 ps-lg-5 mt-md-5">
               <div class="about-text">
-                <h2>Ensuring will Provide the Best Quality <br />Services</h2>
-                <p>Making sure you and your staff are knowledgeable about the products you sell. Being available for customer questions and responding promptly (even if it's negative feedback) Doing what you can to go above and beyond and make customers happy and feel special.</p>
+                <h4>Amlac Grading System | Laravel</h4>
+                <p>Grading System for AMLAC school integrated with Enrollment and LMS</p>
                 <details>
                   <summary>Read More</summary>
+                  <p>Thanks for Trusting Us. Ensuring our Service and exceed your Satisfaction</p>
                   <div class="row">
-                    <div class="col-sm-4"><img src="img/nueva.jpg" alt="" class="img-fluid rounded" style="width: 100%; height: 20vh;"></div>
-                    <div class="col-sm-4"><img src="img/nueva.jpg" alt="" class="img-fluid rounded" style="width: 100%; height: 20vh;"></div>
-                    <div class="col-sm-4"><img src="img/nueva.jpg" alt="" class="img-fluid rounded" style="width: 100%; height: 20vh;"></div>
+                    <div class="col-sm-4"><img src="./img/laravel-amlac.png" alt="" class="img-fluid rounded" style="width: 100%; height: 20vh;"></div>
+                    <div class="col-sm-4"><img src="./img/laravel-amlac2.png" alt="" class="img-fluid rounded" style="width: 100%; height: 20vh;"></div>
+                    <div class="col-sm-4"><img src="./img/laravel-amlac3.png" alt="" class="img-fluid rounded" style="width: 100%; height: 20vh;"></div>
                   </div>
-                  <p>Making sure you and your staff are knowledgeable about the products you sell. Being available for customer questions and responding promptly even if it's ne</p>
                 </details>
               </div>
             </div>
