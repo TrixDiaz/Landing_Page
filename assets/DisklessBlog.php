@@ -28,7 +28,7 @@
             </div>
             <div class="col-lg-8 col-md-12 col-12 ps-lg-5 mt-md-5">
               <div class="about-text">
-                <h2>Diskless Setup From GMA Cavite TearHere iCafe.</p>
+                <h2>Diskless Setup From GMA Cavite TearHere iCafe.</h2>
                 <details>
                   <summary>Read More</summary>
                   <p>Making sure you and your staff are knowledgeable about the products you sell. Being available for customer questions and responding promptly even if it's ne</p>
